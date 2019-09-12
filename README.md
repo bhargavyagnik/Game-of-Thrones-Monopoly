@@ -6,7 +6,7 @@ coding, so we decided to make a complete GOT game that has similar vibes to that
 
 [![Game of Thrones](http://i3.ytimg.com/vi/8x7Y9DAbQAU/maxresdefault.jpg)](https://youtu.be/TZE9gVF1QbA " Game of Thrones- Click to Watch!")
 
-<img src="res/throne.jpg">
 
-<h1> Board
+
+<h1> Board</h1>
 <img src="res/monopoly-GOT-1.jpg" >

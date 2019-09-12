@@ -4,4 +4,4 @@ This is a Monopoly game for the fans of GOT.
 <img src="res/throne.jpg">
 
 <h1> Board
-<img src="res/monopoly-got-1.jpg">
+<img src="res/monopoly-GOT-1.jpg" >

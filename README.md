@@ -4,6 +4,8 @@ We being diehard fans of GOT , once thought to make a game that would make our l
 coding, so we decided to make a complete GOT game that has similar vibes to that while we  watch GOT.
 <h3> Including the Introductry video in GOT </h3>
 
+[![Game of Thrones](http://i3.ytimg.com/vi/8x7Y9DAbQAU/maxresdefault.jpg)](https://youtu.be/TZE9gVF1QbA " Game of Thrones- Click to Watch!")
+
 <img src="res/throne.jpg">
 
 <h1> Board
